@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Boundman4th.
+- 👋 Howdy, I’m @Boundman4th.
 
-- Co-founder of The Nerd Circuit Podcast, and aspiring game developer.
+- Aspiring game developer
  
-- Currently a student on track for Digital Media-Game Design, beginner learning C++ and programming in general.
+- Currently a student on track for Computer Science, learning programming and game development.
 
 - 
 
